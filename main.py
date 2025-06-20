@@ -5,14 +5,14 @@ from typing import List, Dict
 from dataclasses import dataclass
 import uuid
 
-# ANSI color codes
+# ANSI art color codes
 RED = "\033[91m"
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
 BLUE = "\033[94m"
 RESET = "\033[0m"
 
-# ASCII art for header
+# ASCII art for header (heading)
 HEADER = f"""
 {RED}╔════════════════════════════════════╗{RESET}
 {RED}║      {YELLOW}TASK MANAGER CLI{RESET}      {RED}║{RESET}
