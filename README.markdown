@@ -43,8 +43,8 @@ This project is lightweight and relies solely on the Python standard library. No
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-manager-cli.git
-   cd task-manager-cli
+   git clone https://github.com/kaustubhkharvi/task-manager.git
+   cd task-manager
    ```
 2. Ensure Python 3 is installed on your system.
 
@@ -53,7 +53,7 @@ This project is lightweight and relies solely on the Python standard library. No
 ## 🎮 Usage
 1. Run the script:
    ```bash
-   python3 task_manager.py
+   python3 main.py
    ```
 2. Enjoy the colorful menu with ASCII art! Choose from these options:
    - `1. Add Task` 🚀
