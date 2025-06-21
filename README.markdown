@@ -1,4 +1,4 @@
-# Advanced Task Manager CLI 🎉🚀
+# Advanced CLI Task Manager 🎉🚀
 
 A feature-rich command-line interface (CLI) task management tool built in Python. This application allows users to create, edit, delete, and manage tasks with priorities, due dates, categories, progress tracking, and more. It includes a user authentication system, task persistence, and an engaging loading animation. 🌟📋
 
@@ -50,9 +50,9 @@ A feature-rich command-line interface (CLI) task management tool built in Python
 ## Screenshots 📸
 *(Add screenshots of the loading screen, menu, and task display here if available. Example:)*  
 ```
-[Insert image of loading bar here] 📷
-[Insert image of main menu here] 📷
-[Insert image of task list here] 📷
+![image](https://discord.com/channels/@me/1122921927548358709/1385941668594847815) 📷
+[![image](https://github.com/user-attachments/assets/a3c58b2c-c9dc-477f-8ed2-dd163ef74fbd)] 📷
+[![image](https://github.com/user-attachments/assets/10fb03f0-75b0-4c29-a46e-c0f3b0c21f1b)] 📷
 ```
 
 ## Contributing 🤝
