@@ -48,12 +48,10 @@ A feature-rich command-line interface (CLI) task management tool built in Python
 - Export tasks: Select `9`, choose format (json/csv), and enter a filename. 📤
 
 ## Screenshots 📸
-*(Add screenshots of the loading screen, menu, and task display here if available. Example:)*  
-```
-![image](https://discord.com/channels/@me/1122921927548358709/1385941668594847815) 📷
-[![image](https://github.com/user-attachments/assets/a3c58b2c-c9dc-477f-8ed2-dd163ef74fbd)] 📷
-[![image](https://github.com/user-attachments/assets/10fb03f0-75b0-4c29-a46e-c0f3b0c21f1b)] 📷
-```
+
+![image](images/image.png) 📷
+![image](images/image(1).png) 📷
+![image](images/image(2).png) 📷
 
 ## Contributing 🤝
 1. Fork the repository. 🍴
